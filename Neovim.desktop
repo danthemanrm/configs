@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Neovim
+Comment=literally the future of vim
+GenericName=Text Editor
+Exec=xfce4-terminal --execute nvim %f
+Icon=neovim
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Utility;TextEditor;Development;
+MimeType=text/plain;
